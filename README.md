@@ -15,8 +15,8 @@ datacamp_mini_projects/
 │   └── investigating_netflix_movies/
 │       ├── investigating_netflix_movies_nb.ipynb
 │       └── redpopcorn.png
-├── 
-└── 
+├── LICENSE.txt
+└── README.md
 ```
 
 ## About the Author
@@ -34,7 +34,7 @@ I'm always open to collaborations, learning opportunities, and connecting with f
 - 🔗 Facebook: [Mike's Facebook Profile](https://www.facebook.com/mikekaizennn)
 
 ## Acknowledgments
-- **DataCamp** for providing the dataset and platform.
+- **[DataCamp](https://app.datacamp.com/)** for providing the dataset and platform.
 
 ## Contributing
 Feel free to fork this repository, submit issues, or create pull requests with improvements!
