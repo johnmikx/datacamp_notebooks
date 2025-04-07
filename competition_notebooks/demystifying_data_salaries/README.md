@@ -1,12 +1,10 @@
 # How Are Tech Salaries Shaping Up in 2020-2024?
 
-## Background
-Tech companies face fierce competition for talent, making salary insights critical for attracting and retaining skilled professionals. This analysis leverages a global salary dataset to uncover trends in job roles, experience levels, and remote work, helping an international HR consultancy stay competitive. With remote work surging and tech roles diversifying, understanding these drivers is more vital than ever.
+![Tech Salary Trends Background](futuristic.png)
 
-## Directory Structure
-```
-to be updated
-```
+## Background
+Tech companies face fierce competition for talent, making salary insights critical for attracting and retaining skilled professionals. These analyses leverage a global salary dataset to uncover trends in job roles, experience levels, and remote work, helping an international HR consultancy stay competitive. With remote work surging and tech roles diversifying, understanding these drivers is more vital than ever.
+
 ## Challenges
 
 ### Demystifying data salaries 💰 - Level 1
@@ -43,12 +41,3 @@ I'm always open to collaborations, learning opportunities, and connecting with f
 - 🔗 GitHub: [Mike's GitHub Profile](https://github.com/johnmikx)
 - 💼 DataCamp: [Mike's Portfolio](https://www.datacamp.com/portfolio/johnmikeasuncion17)
 - 🔗 Facebook: [Mike's Facebook Profile](https://www.facebook.com/mikekaizennn)
-
-## Acknowledgments
-- **DataCamp** for providing the dataset and platform.
-
-## Contributing
-Feel free to fork this repository, submit issues, or create pull requests with improvements!
-
-## License
-This project is licensed under the [MIT License](LICENSE.txt).
