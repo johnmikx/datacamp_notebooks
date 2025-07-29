@@ -1,43 +1,38 @@
-A collection of mini DataCamp projects organized into competition notebooks and course notebooks for hands-on Data Science, Data Analytics, and Machine Learning/AI in practice.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient"/>
 
-## Directory Structure
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=150&color=0:8871e5,100:b678c4&text=My%20DataCamp%20Notebooks&stroke=B4CCE7&strokeWidth=2&animation=twinkling"/>
+
+<img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif"/>
+
+A collection of DataCamp notebooks, covering both **Courses** and **Competitions**. These notebooks serve as a way to showcase and share insights, models, and solutions for various DataCamp competitions and educational courses.
+
+## **Directory Structure**
 
 ```
-datacamp_mini_projects/
+datacamp_notebooks/
 ├── competition_notebooks/
 │   └── demystifying_data_salaries/
 │       ├── README.md
-│       ├── demystifying_data_salaries_level1_nb.ipynb
-│       ├── demystifying_data_salaries_level2_nb.ipynb
-│       ├── demystifying_data_salaries_level3_nb.ipynb
-│       └── futuristic.png
+│       ├── demystifying-data-salaries-level1.ipynb
+│       ├── demystifying-data-salaries-level2.ipynb
+│       └── demystifying-data-salaries-level3.ipynb
+│
 ├── course_notebooks/
 │   └── investigating_netflix_movies/
-│       ├── investigating_netflix_movies_nb.ipynb
-│       └── redpopcorn.png
-├── LICENSE.txt
+│       └── investigating-netflix-movies.ipynb
+│
 └── README.md
 ```
 
-## About the Author
+## **About the Author**
+
+You can explore my DataCamp profile at ***https://www.datacamp.com/portfolio/johnmikeasuncion17***
 
 🥷 **John Mike Asuncion (Mike)**
 
-- Driven **1st-year Computer Engineering student** with a keen interest in Data Science, Machine Learning, and Artificial Intelligence.
+- Driven **2nd-year Computer Engineering student** with a keen interest in Data Science, Engineering, Machine Learning, and Artificial Intelligence.
 
-### 📫 Connect With Me
-I'm always open to collaborations, learning opportunities, and connecting with fellow tech enthusiasts! Reach out via:  
-- 📧 Email: [johnmikeasuncion17@gmail.com](mailto:johnmikeasuncion17@gmail.com)
-- 🔗 LinkedIn: [Mike's LinkedIn Profile](https://www.linkedin.com/in/john-mike-asuncion-a44232320/)
-- 🔗 GitHub: [Mike's GitHub Profile](https://github.com/johnmikx)
-- 💼 DataCamp: [Mike's Portfolio](https://www.datacamp.com/portfolio/johnmikeasuncion17)
-- 🔗 Facebook: [Mike's Facebook Profile](https://www.facebook.com/mikekaizennn)
+## **Credits and Acknowledgments**
+- **[DataCamp](https://www.datacamp.com)** for providing the notebook courses, dataset, and platform.
 
-## Acknowledgments
-- **[DataCamp](https://app.datacamp.com/)** for providing the dataset and platform.
-
-## Contributing
-Feel free to fork this repository, submit issues, or create pull requests with improvements!
-
-## License
-This project is licensed under the [MIT License](LICENSE.txt).
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&section=footer"/>
