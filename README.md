@@ -21,6 +21,35 @@ datacamp_notebooks/
 │   └── investigating_netflix_movies/
 │       └── investigating-netflix-movies.ipynb
 │
+├── datacamp_certificates
+|   ├── course_certificates
+|   |   ├── John Mike Asuncion - AI Ethics.png
+|   |   ├── John Mike Asuncion - Communicating Data Insights.png
+|   |   ├── John Mike Asuncion - Generative AI Concepts.png
+|   |   ├── John Mike Asuncion - Intermediate Python.png
+|   |   ├── John Mike Asuncion - Introduction to Data Literacy.png
+|   |   ├── John Mike Asuncion - Introduction to Data.png
+|   |   ├── John Mike Asuncion - Introduction to Git.png
+|   |   ├── John Mike Asuncion - Introduction to Python.png
+|   |   ├── John Mike Asuncion - Introduction to R.png
+|   |   ├── John Mike Asuncion - Introduction to SQL.png
+|   |   ├── John Mike Asuncion - Introduction to Statistics.png
+|   |   ├── John Mike Asuncion - Large Language Models (LLMs) Concepts.png
+|   |   ├── John Mike Asuncion - Understanding Artificial Intelligence.png
+|   |   ├── John Mike Asuncion - Understanding ChatGPT.png
+|   |   ├── John Mike Asuncion - Understanding Cloud Computing.png
+|   |   ├── John Mike Asuncion - Understanding Data Engineering.png
+|   |   ├── John Mike Asuncion - Understanding Data Science.png
+|   |   ├── John Mike Asuncion - Understanding Data Visualization.png
+|   |   └── John Mike Asuncion - Understanding Machine Learning.png
+|   |
+|   └── track_certificates
+|       ├── John Mike Asuncion - AI Fundamentals.png
+|       └── John Mike Asuncion - Understanding Data Topics.png
+|
+├── datacamp_certifications
+│   └── John Mike Asuncion - AI Fundamentals.png
+│
 └── README.md
 ```
 
