@@ -21,8 +21,8 @@ datacamp_notebooks/
 │   └── investigating_netflix_movies/
 │       └── investigating-netflix-movies.ipynb
 │
-├── datacamp_certificates
-|   ├── course_certificates
+├── datacamp_certificates/
+|   ├── course_certificates/
 |   |   ├── John Mike Asuncion - AI Ethics.png
 |   |   ├── John Mike Asuncion - Communicating Data Insights.png
 |   |   ├── John Mike Asuncion - Generative AI Concepts.png
@@ -43,11 +43,11 @@ datacamp_notebooks/
 |   |   ├── John Mike Asuncion - Understanding Data Visualization.png
 |   |   └── John Mike Asuncion - Understanding Machine Learning.png
 |   |
-|   └── track_certificates
+|   └── track_certificates/
 |       ├── John Mike Asuncion - AI Fundamentals.png
 |       └── John Mike Asuncion - Understanding Data Topics.png
 |
-├── datacamp_certifications
+├── datacamp_certifications/
 │   └── John Mike Asuncion - AI Fundamentals.png
 │
 └── README.md
